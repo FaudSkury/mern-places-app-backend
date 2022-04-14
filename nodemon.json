@@ -1,8 +1,0 @@
-{
-  "env": {
-    "DB_USER": "FaudSkury",
-    "DB_PASSWORD": "695001019",
-    "DB_NAME": "places_App",
-    "GOOGLE_API_KEY": "AIzaSyAlNgU-sHCCpVjnRWzB2XXGkguyg7rVzik"
-  }
-}
